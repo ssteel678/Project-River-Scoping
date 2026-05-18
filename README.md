@@ -1,6 +1,6 @@
 # <h1>Project-River-Scoping Overview</h1>
 
- ### [River Scope Overview Link](https://https://loom.com)
+ ### [River Scope Overview Link](https://loom.com)
 
 <h2>Description</h2>
 Project consists of video and samples of the scoping process that was done on a organization named River which is a third-party service provider contracted by a major U.S. financial institution to manage various operational functions related to the institution’s credit card services.The company also processes, store and transmit card holder data for the institution. The purpose of the scope is verify what is applicable and not applicable before peforming a PCI DSS Assessment. 
