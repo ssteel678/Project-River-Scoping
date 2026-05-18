@@ -29,15 +29,15 @@ Enter the number of passes: <br/>
 <h2>Systems:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Sample 1: <br/>
 <img src="https://imgur.com/dqSAPwr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Sample 2:  <br/>
 <img src="https://imgur.com/XLD0KTx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Sample 3: <br/>
 <img src="https://imgur.com/0euN9gl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
