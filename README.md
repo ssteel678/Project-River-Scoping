@@ -14,7 +14,7 @@ Project consists of video and samples of the scoping process that was done on a 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/yVF7ON6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SCiUfDy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
