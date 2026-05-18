@@ -45,7 +45,7 @@ Enter the number of passes: <br/>
  <h2>Networks:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Network Segments with Cardholder Data: <br/>
 <img src="https://imgur.com/eFTgZbF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
