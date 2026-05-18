@@ -17,7 +17,7 @@ Cardholder Data Transmission Sample: <br/>
 <img src="https://imgur.com/SCiUfDy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Cardholder Data Storage Sample:  <br/>
 <img src="https://imgur.com/eaXd0dC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
