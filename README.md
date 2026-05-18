@@ -61,11 +61,11 @@ Enter the number of passes: <br/>
 <h2>Network Diagrams:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Elpaso Detailed: <br/>
 <img src="https://imgur.com/tAOlr0D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Elpaso:  <br/>
 <img src="https://imgur.com/WAQwWGw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
