@@ -77,7 +77,7 @@ Lexington /Blywood: <br/>
 <img src="https://imgur.com/LyGnfSe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Enter the number of passes: <br/>
+ High Level: <br/>
 <img src="https://imgur.com/coYP13P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
