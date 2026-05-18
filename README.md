@@ -53,10 +53,6 @@ NON-CDE Network Segments:  <br/>
 <img src="https://imgur.com/mOas17b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://imgur.com/0euN9gl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 <h2>Network Diagrams:</h2>
 
