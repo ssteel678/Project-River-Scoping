@@ -7,8 +7,10 @@ Project consists of video and samples of the scoping process that was done on a 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
+<h2>River Bussiness Overview Sample</h2>
+<img src="https://imgur.com/e4OswVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Cardholder Data Flow Storage:</h2>
 
