@@ -57,6 +57,22 @@ Enter the number of passes: <br/>
 <img src="https://imgur.com/0euN9gl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+<h2>Network Diamgrams:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/eFTgZbF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://imgur.com/mOas17b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://imgur.com/0euN9gl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 
