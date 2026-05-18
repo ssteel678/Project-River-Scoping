@@ -58,7 +58,7 @@ Enter the number of passes: <br/>
 <br />
 <br />
 
-<h2>Network Diamgrams:</h2>
+<h2>Network Diagrams:</h2>
 
 <p align="center">
 Launch the utility: <br/>
