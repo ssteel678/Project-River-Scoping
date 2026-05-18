@@ -61,15 +61,15 @@ Enter the number of passes: <br/>
 <h2>Network Diagrams:</h2>
 
 <p align="center">
-Elpaso Detailed: <br/>
+Elpaso, TX Detailed: <br/>
 <img src="https://imgur.com/tAOlr0D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Elpaso:  <br/>
+Elpaso, TX:  <br/>
 <img src="https://imgur.com/WAQwWGw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Kochi, India: <br/>
 <img src="https://imgur.com/DxWyxBe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
