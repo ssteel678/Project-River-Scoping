@@ -21,7 +21,7 @@ Cardholder Data Storage Sample:  <br/>
 <img src="https://imgur.com/eaXd0dC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Web Applications Sample: <br/>
 <img src="https://imgur.com/ozpfY6i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
