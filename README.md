@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of video and samples of the scoping process that was done on a organization named River which is a third-party service provider contracted by a major U.S. financial institution to manage various operational functions related to the institution’s credit card services.The company also processes, store and transmit card holder data for the institution. The purpose of the scope is verify what is applicable and not applicable before peforming a PCI DSS Assessemnt. 
 <br />
 
 
