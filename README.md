@@ -49,7 +49,7 @@ Network Segments with Cardholder Data: <br/>
 <img src="https://imgur.com/eFTgZbF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+NON-CDE Network Segments:  <br/>
 <img src="https://imgur.com/mOas17b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
